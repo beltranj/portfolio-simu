@@ -1,6 +1,5 @@
 ---
 title: Movimiento circular
-date: 2024/5/19
 description: Simular el movimiento de una bola alrededor de un punto situado a una distancia r de la bola. Dará una vuelta por segundo.
 tag: tema1
 author: Jordi Beltran

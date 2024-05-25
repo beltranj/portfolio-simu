@@ -5,10 +5,11 @@ description: Simular el movimiento de una particula que se mueve a tramos de vel
 tag: tema1
 author: Jordi Beltran
 ---
-
+<div style="text-align: justify;">
 Este ejercicio simula el movimiento de una partícula a lo largo de una trayectoria compuesta por tramos de velocidad constantes. Hay una segunda versión con aceleración en los tramos.
 
 El usuario puede observar como la partícula se desplaza a diferentes velocidades en cada tramo de la montaña rusa.
+</div>
 
 <div align="center">
 <b>Ejemplo con velocidad constante:</b>

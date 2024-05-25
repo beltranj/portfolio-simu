@@ -1,16 +1,15 @@
 ---
 title: Osciladores
-date: 2024/5/19
 description: Animar el movimiento de una partícula a velocidad v sobre las dos funciones oscilatorias.
 tag: tema1
 author: Jordi Beltran
 ---
 Un oscilador es una función **y = f(x)** que devuelve una onda a una frecuencia. En este ejercicio implementamos dos funciones oscilatorias:
-    - ** y = sin(x) * exp(-0.002x)**
-    - ** y = 0.5sin(3x) + 0.5sin(3.5x)**
+    - **y = sin(x) * exp(-0.002x)**
+    - **y = 0.5sin(3x) + 0.5sin(3.5x)**
 
  Para animar el movimiento de una partícula sobre estas funciones utilizamos:
- - **ArrayList<PVector> particula_posiciones** dónde vamos añadiendo todas las posiciones de la partícula, con la finalidad de unirlas y ver la trayectoria de la función oscilatoria
+ - **````ArrayList<PVector> particula_posiciones````** dónde vamos añadiendo todas las posiciones de la partícula, con la finalidad de unirlas y ver la trayectoria de la función oscilatoria
  - **particula** será la partícula a la que se aplique la funcion oscilatoria
 
 El movimiento de la partícula se realiza de la siguiente manera:

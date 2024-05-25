@@ -1,6 +1,5 @@
 ---
 title: Simulador de coche (rudimentario)
-date: 2024/5/19
 description: Realizar la simulación del acelerador de un coche y obtener su gráfica de velocidad
 tag: tema1
 author: Jordi Beltran

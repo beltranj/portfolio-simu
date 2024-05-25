@@ -1,6 +1,5 @@
 ---
 title: Splash
-date: 2024/5/19
 description: Implementación de un sistema de partículas tipo Splash! para la partícula flotante
 tag: tema2
 author: Jordi Beltran

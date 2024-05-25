@@ -1,7 +1,7 @@
 ---
 type: posts
-title: Simulaciones
+title: Ejercicios
 date: 2021-03-18
 ---
 
-# Simulaciones
+# Ejercicios

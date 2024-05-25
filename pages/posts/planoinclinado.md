@@ -1,6 +1,5 @@
 ---
 title: Plano inclinado
-date: 2024/2/15
 description: Simular el movimiento de una caja sobre un plano inclinado teniendo en cuenta la fuerza peso y la fuerza de rozamiento
 tag: tema1
 author: Jordi Beltran
